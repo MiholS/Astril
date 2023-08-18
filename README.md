@@ -16,7 +16,7 @@ pip3 install numpy beautifulsoup4 selenium webdriver_manager
 Maintenant il faut cloner le repo
 
 ```
-git clone https://github.com/yourusername/Astril
+git clone https://github.com/MiholS/Astril.git
 ```
 
 
